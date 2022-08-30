@@ -1,4 +1,4 @@
-from socket import fromshare
+from socket import froms
 from django import forms
 
 from .models import Post
